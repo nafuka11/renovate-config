@@ -1,6 +1,6 @@
 # renovate-config
 
-[Shareable config presets](https://docs.renovatebot.com/config-presets/) for [Renovate](https://renovatebot.com/)
+A [shareable config preset](https://docs.renovatebot.com/config-presets/) for [Renovate](https://renovatebot.com/)
 
 ## Setup
 
