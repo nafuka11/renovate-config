@@ -7,5 +7,11 @@
     "schedule:monthly"
   ],
   "rangeStrategy": "bump",
-  "stabilityDays": 7
+  "stabilityDays": 7,
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["^date-fns"],
+      "groupName": "date-fns packages"
+    }
+  ]
 }
