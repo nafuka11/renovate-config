@@ -4,8 +4,7 @@
     "config:base",
     ":noUnscheduledUpdates",
     ":prHourlyLimit4",
-    ":timezone(Asia/Tokyo)",
-    "schedule:monthly"
+    ":timezone(Asia/Tokyo)"
   ],
   "rangeStrategy": "bump",
   "stabilityDays": 7,
