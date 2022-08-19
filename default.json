@@ -4,6 +4,7 @@
     "config:base",
     ":noUnscheduledUpdates",
     ":prHourlyLimit4",
+    ":prNotPending",
     ":timezone(Asia/Tokyo)"
   ],
   "rangeStrategy": "bump",
